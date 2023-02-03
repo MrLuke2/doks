@@ -6,10 +6,10 @@ date: 2020-11-04T09:19:42+01:00
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
-images: []
+images: ["default-image.png"]
 categories: ["News"]
 tags: ["security", "performance", "SEO"]
-contributors: ["Henk Verlinde"]
+contributors: ["Narahari Luke"]
 pinned: false
 homepage: false
 ---

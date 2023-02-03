@@ -61,7 +61,7 @@ parent = "get-started"
 name = "Tutorial"
 weight = 50
 identifier = "tutorial"
-url = "https://getdoks.org/tutorial/introduction/"
+url = "https://hodgeluke.com"
 parent = "get-started"
 
 [[social]]

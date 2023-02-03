@@ -1,9 +1,9 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Davinici Sheets"
-titleSeparator = "-"
-titleAddition = "Maximize Data Potential with Davinici Sheets"
+title = "Davinici Sheets 🤖"
+titleSeparator = "|"
+titleAddition = "Maximize your Data Potential"
 description = "Davinici Sheets empowers data w/ AI. From personalized content to automated analysis, it provides everything needed to unlock data's potential. Get results quickly & easily."
 
 ## Documentation
@@ -16,17 +16,17 @@ domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@HodgeLukee"
+twitterCreator = "@IamNarahariDasa"
 
 ## JSON-LD
 # schemaType = "Person"
-schemaType = "Organization"
+schemaType = "AI Automation"
 schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
+schemaAuthor = "Narahari Luke"
+schemaAuthorTwitter = "https://twitter.com/IamNarahariDasa"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/narahari-dasa/"
+schemaAuthorGitHub = "https://github.com/MrLuke2"
 schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
@@ -34,9 +34,9 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = "https://twitter.com/HodgeLukee"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaGitHub = "https://github.com/DSamuelHodge"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -65,16 +65,16 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center"      # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Davinici Sheets</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://www.hodgeluke.com/\"><b>Hodge & Luke</b></a> | <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> | <a class=\"text-muted\" href=\"https://getdoks.org/\"><b>Davinici Sheets</b></a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2022-2023 Narahari Luke"
 
 # Alert
-alert = false
+alert = true
 alertDismissable = true
 # alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+alertText = "Introducing Davinici Sheets, User-friendly Ai Automation in your Sheets, and more! <a class=\"alert-link stretched-link\" href=\"https://www.hodgeluke.com/\">Check Out Davinici Sheets v0.1</a>"
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster

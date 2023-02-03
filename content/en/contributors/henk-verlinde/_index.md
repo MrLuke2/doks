@@ -1,12 +1,12 @@
 ---
-title: "Henk Verlinde"
-description: "Creator of Hyas."
+title: "Narahari Luke"
+description: "Connecting Ppl to Digital Intelligence"
 date: 2020-10-06T08:50:45+00:00
 lastmod: 2020-10-06T08:50:45+00:00
 draft: false
 images: []
 ---
 
-Creator of Hyas.
+Connecting Ppl to Digital Intelligence
 
-[@HenkVerlinde](https://twitter.com/henkverlinde)
+[@IamNarahariDasa](https://twitter.com/IamNarahariDasa)
