@@ -9,7 +9,7 @@ weight: 50
 images: []
 categories: ["News"]
 tags: ["security", "performance", "SEO"]
-contributors: ["Henk Verlinde"]
+contributors: ["Derrick Hodge"]
 pinned: false
 homepage: false
 ---
