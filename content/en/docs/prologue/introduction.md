@@ -58,4 +58,4 @@ Find out how to contribute to Davinici Sheets. [Contributing →](https://getdok
 
 ## Help
 
-Get help on Davinici Sheets. [Help →]({{< relref "how-to-update" >}})
+Get help on Davinici Sheets. [Help →]({{< relref "FAQ" >}})

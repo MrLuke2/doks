@@ -38,7 +38,7 @@ Davinici Sheets is available for use in Google Sheets, Google Docs, and More.
 {{< details "How we do <b>Sheets</b>" >}}
 - Intended for novice to intermediate users
 - Intended for minor customizations
-- [Easily update npm packages]({{< relref "how-to-update" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
+- [Easily update npm packages]({{< relref "FAQ" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
 {{< /details >}}
 
 ```bash
@@ -50,7 +50,7 @@ Copy Direct Link - https://github.com/h-enk/doks-child-theme.git my-doks-site
 {{< details "How we do <b>Docs</b>" >}}
 - Intended for intermediate to advanced users
 - Intended for major customizations
-- [Easily update npm packages]({{< relref "how-to-update" >}})
+- [Easily update npm packages]({{< relref "FAQ" >}})
 {{< /details >}}
 
 ```bash
@@ -62,7 +62,7 @@ Copy Direct Link - https://github.com/h-enk/doks.git my-doks-site
 {{< details "Check out <b>ALL</b> we do" >}}
 - Intended for novice to intermediate users
 - Intended for minor customizations
-- [Easily update npm packages]({{< relref "how-to-update" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
+- [Easily update npm packages]({{< relref "FAQ" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
 {{< /details >}}
 
 Interested in all the possibilities of Davinici Sheets. [Possibilities →]({{< relref "commands" >}})

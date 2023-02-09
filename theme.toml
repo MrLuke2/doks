@@ -1,14 +1,34 @@
-name = "Doks"
+name = "Davinici Sheet"
 license = "MIT"
 licenselink = "https://github.com/h-enk/doks/blob/master/LICENSE"
-description = "Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description = "Davinici Sheets empowers data w/ AI. From personalized content to automated analysis, it provides everything needed to unlock data's potential. Get results quickly & easily."
 
-homepage = "https://github.com/h-enk/doks"
-demosite = "https://doks.netlify.app"
+homepage = ""
+demosite = ""
 
-tags = ["landing page", "documentation", "blog", "minimal", "modern", "customizable", "search", "dark mode", "bootstrap"]
-features = ["security aware", "fast by default", "seo-ready", "development tools", "bootstrap framework", "netlify-ready", "full text search", "page layouts", "dark mode"]
+tags = [
+  "landing page",
+  "documentation",
+  "blog",
+  "minimal",
+  "modern",
+  "customizable",
+  "search",
+  "dark mode",
+  "bootstrap",
+]
+features = [
+  "security aware",
+  "fast by default",
+  "seo-ready",
+  "development tools",
+  "bootstrap framework",
+  "netlify-ready",
+  "full text search",
+  "page layouts",
+  "dark mode",
+]
 
 [author]
-  name = "Henk Verlinde"
-  homepage = "https://henkverlinde.com"
+name = "Narahari Luke"
+homepage = "https://hodgeluke.com"
