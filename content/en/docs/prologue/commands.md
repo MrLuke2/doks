@@ -1,7 +1,7 @@
 ---
-title: "Commands"
-description: "Doks comes with commands for common tasks."
-lead: "Doks comes with commands for common tasks."
+title: "Possibilities"
+description: "Check out Davinici Sheets F&Q"
+lead: "Check out Davinici Sheets F&Q"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -15,98 +15,68 @@ toc: true
 
 {{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." />}}
 
-## create
+{{< details "Check out <b>ALL</b> we do" >}}
+- AI Prompt Generation
+- Intended for minor customizations
+- [Easily update npm packages]({{< relref "how-to-update" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
+{{< /details >}}
 
-Create new content for your site:
+## AI Prompt Image Generation
 
-```bash
-npm run create [path] [flags]
-```
+How to automate image generation in your Sheets and Docs.
 
-See also the Hugo docs: [hugo new](https://gohugo.io/commands/hugo_new/).
-
-### Docs based tree
-
-Create a docs based tree — with a single command:
-
-```bash
-npm run create -- --kind docs [section]
-```
-
-For example, create a docs based tree named guides:
+{{< details "Steps and Tips" >}}
+1. AI Prompt Generation
+2. Intended for minor customizations
+3. [Easily update npm packages]({{< relref "how-to-update" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
+{{< /details >}}
 
 ```bash
-npm run create -- --kind docs guides
+Copy Direct Link - https://samplesite.com
 ```
+
+See our blogs on this topic: [hugo new](https://gohugo.io/commands/hugo_new/).
+
+## Docs based tree
+
+How to automate image generation in your Sheets and Docs.
+
+{{< details "Steps and Tips" >}}
+1. AI Prompt Generation
+2. Intended for minor customizations
+3. [Easily update npm packages]({{< relref "how-to-update" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
+{{< /details >}}
+
+```bash
+Copy Direct Link - https://samplesite.com
+```
+
+See our blogs on this topic: [hugo new](https://gohugo.io/commands/hugo_new/).
 
 ## lint
 
-Check scripts, styles, and markdown for errors:
+How to automate image generation in your Sheets and Docs.
+
+{{< details "Steps and Tips" >}}
+1. AI Prompt Generation
+2. Intended for minor customizations
+3. [Easily update npm packages]({{< relref "how-to-update" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
+{{< /details >}}
 
 ```bash
-npm run lint
+Copy Direct Link - https://samplesite.com
 ```
 
-### scripts
+See our blogs on this topic: [hugo new](https://gohugo.io/commands/hugo_new/).
 
-Check scripts for errors:
+## Davinici Sheets F&Q
 
-```bash
-npm run lint:scripts [-- --fix]
-```
+How to automate image generation in your Sheets and Docs.
 
-### styles
+{{< details "F&Q" >}}
+1. AI Prompt Generation
+2. Intended for minor customizations
+3. [Easily update npm packages]({{< relref "how-to-update" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
+{{< /details >}}
 
-Check styles for errors:
-
-```bash
-npm run lint:styles [-- --fix]
-```
-
-### markdown
-
-Check markdown for errors:
-
-```bash
-npm run lint:markdown [-- --fix]
-```
-
-## clean
-
-Delete temporary directories:
-
-```bash
-npm run clean
-```
-
-## start
-
-Start local development server:
-
-```bash
-npm run start
-```
-
-## build
-
-Build production website:
-
-```bash
-npm run build
-```
-
-### functions
-
-Build Lambda functions:
-
-```bash
-npm run build:functions
-```
-
-### preview
-
-Build production website including draft and future content:
-
-```bash
-npm run build:preview
-```
+See our blogs on this topic: [hugo new](https://gohugo.io/commands/hugo_new/).

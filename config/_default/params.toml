@@ -22,7 +22,7 @@ twitterCreator = "@IamNarahariDasa"
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "AI Automation"
-schemaName = "Doks"
+schemaName = "Davinici Sheets"
 schemaAuthor = "Narahari Luke"
 schemaAuthorTwitter = "https://twitter.com/IamNarahariDasa"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/narahari-dasa/"
@@ -35,7 +35,7 @@ schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/HodgeLukee"
-schemaLinkedIn = ""
+schemaLinkedIn = "https://www.linkedin.com/in/narahari-dasa/"
 schemaGitHub = "https://github.com/DSamuelHodge"
 schemaSection = "blog"
 

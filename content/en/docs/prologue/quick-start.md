@@ -1,7 +1,7 @@
 ---
-title: "Quick Start"
-description: "One page summary of how to start a new Doks project."
-lead: "One page summary of how to start a new Doks project."
+title: "Start Here"
+description: "Start now with Davinici Sheets."
+lead: "Start now with Davinici Sheets."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -15,65 +15,54 @@ toc: true
 
 ## Requirements
 
-- [Git](https://git-scm.com/) — latest source release
-- [Node.js](https://nodejs.org/) — latest LTS version or newer
+- [Google Workspace Marketplace](https://workspace.google.com/u/2/marketplace) — Simple search Davinici Sheets on the Marketplace
+- [Davinici Sheets (Google Extention)](https://samplesite.com) — Download the extention witht the directions below.
 
-{{< details "Why Node.js?" >}}
-Doks uses npm (included with Node.js) to centralize dependency management, making it [easy to update]({{< relref "how-to-update" >}}) resources, build tooling, plugins, and build scripts.
+{{< details "<b>Two simple steps</b>" >}}
+1. Install the Davinici Sheets App by visiting https://samplesite.com and clicking on the Install button.
+2. Once installed, open Google Sheets, navigate to Extensions > Davinici_Sheet App > launch.
 {{< /details >}}
 
-## Start a new Doks project
+For more information please follow the link. [Start Here →]({{< relref "quick-start" >}})
+
+## Start a new Davinici Sheets project
 
 Create a new site, change directories, install dependencies, and start development server.
 
-### Create a new site
+### Create new Sheets, Docs, and More
 
-Doks is available as a child theme and a starter theme.
+Davinici Sheets is available for use in Google Sheets, Google Docs, and More.
 
-#### Child theme
+#### Google Sheets
 
+{{< details "How we do <b>Sheets</b>" >}}
 - Intended for novice to intermediate users
 - Intended for minor customizations
-- [Easily update npm packages]({{< relref "how-to-update" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks)
+- [Easily update npm packages]({{< relref "how-to-update" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
+{{< /details >}}
 
 ```bash
-git clone https://github.com/h-enk/doks-child-theme.git my-doks-site
+Copy Direct Link - https://github.com/h-enk/doks-child-theme.git my-doks-site
 ```
 
-#### Starter theme
+#### Google Docs
 
+{{< details "How we do <b>Docs</b>" >}}
 - Intended for intermediate to advanced users
 - Intended for major customizations
 - [Easily update npm packages]({{< relref "how-to-update" >}})
-
-```bash
-git clone https://github.com/h-enk/doks.git my-doks-site
-```
-
-{{< details "Help me choose" >}}
-Not sure which one is for you? Pick the child theme.
 {{< /details >}}
 
-### Change directories
-
 ```bash
-cd my-doks-site
+Copy Direct Link - https://github.com/h-enk/doks.git my-doks-site
 ```
 
-### Install dependencies
+## and More
 
-```bash
-npm install
-```
+{{< details "Check out <b>ALL</b> we do" >}}
+- Intended for novice to intermediate users
+- Intended for minor customizations
+- [Easily update npm packages]({{< relref "how-to-update" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
+{{< /details >}}
 
-### Start development server
-
-```bash
-npm run start
-```
-
-Doks will start the Hugo development webserver accessible by default at `http://localhost:1313`. Saved changes will live reload in the browser.
-
-## Other commands
-
-Doks comes with commands for common tasks. [Commands →]({{< relref "commands" >}})
+Interested in all the possibilities of Davinici Sheets. [Possibilities →]({{< relref "commands" >}})
