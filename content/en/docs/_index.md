@@ -1,5 +1,5 @@
 ---
-title : "Davinici Sheets"
+title : "Davinici Sheet"
 description: "Maximizing Data Potential"
 lead: ""
 date: 2020-10-06T08:48:23+00:00

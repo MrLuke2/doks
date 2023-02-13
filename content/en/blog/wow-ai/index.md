@@ -6,7 +6,7 @@ date: 2020-11-04T09:19:42+01:00
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
-images: [doks.png]
+images: [blog-davinici-1270x715.png]
 categories: ["News"]
 tags: ["security", "performance", "SEO"]
 contributors: ["Derrick Hodge"]

@@ -1,19 +1,19 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Davinici Sheets 🤖"
+title = "Davinici Sheet"
 titleSeparator = "|"
-titleAddition = "Maximize your Data Potential"
-description = "Davinici Sheets empowers data w/ AI. From personalized content to automated analysis, it provides everything needed to unlock data's potential. Get results quickly & easily."
+titleAddition = "Unlock the Power of Data with Davinici Sheet AI Solutions."
+description = "Unlock the potential of your data with Davinici Sheet's AI-powered solutions. Experience personalized content and effortless analysis for quick and easy results."
 
 ## Documentation
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["logo-doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "hodgeluke.com"
+titleHome = "Davinici Sheet"
 
 ## Twitter Cards
 twitterSite = "@HodgeLukee"
@@ -21,8 +21,8 @@ twitterCreator = "@IamNarahariDasa"
 
 ## JSON-LD
 # schemaType = "Person"
-schemaType = "AI Automation"
-schemaName = "Davinici Sheets"
+schemaType = "Organization"
+schemaName = "Davinici Sheet"
 schemaAuthor = "Narahari Luke"
 schemaAuthorTwitter = "https://twitter.com/IamNarahariDasa"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/narahari-dasa/"
@@ -31,7 +31,7 @@ schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "doks.png"
+schemaImage = "logo-doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/HodgeLukee"
@@ -61,11 +61,12 @@ singleSize = false
 imageAddClass = "img-fluid lazyload blur-up"
 
 ### Image template
-defaultImage = "default-image.png" # put in `./assets/images/`
-fillImage = "1270x740 Center"      # normalize image size
+defaultImage = "./assets/images/" # put in `./assets/images/`
+fillImage = "1270x740 Center"     # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.hodgeluke.com/\"><b>Hodge & Luke</b></a> | <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> | <a class=\"text-muted\" href=\"https://getdoks.org/\"><b>Davinici Sheets</b></a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://www.hodgeluke.com/\"><b>Hodge & Luke</b></a> | <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> | <a class=\"text-muted\" href=\"https://getdoks.org/\"><b>Davinici Sheet</b></a>"
+
 
 # Feed
 copyRight = "Copyright (c) 2022-2023 Narahari Luke"
@@ -74,7 +75,7 @@ copyRight = "Copyright (c) 2022-2023 Narahari Luke"
 alert = true
 alertDismissable = true
 # alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing Davinici Sheets, User-friendly Ai Automation in your Sheets, and more! <a class=\"alert-link stretched-link\" href=\"https://www.hodgeluke.com/\">Check Out Davinici Sheets v0.1</a>"
+alertText = "Introducing Davinici Sheet, User-friendly Ai Automation in your Sheets, and more! <a class=\"alert-link stretched-link\" href=\"https://www.hodgeluke.com/\">Check Out Davinici Sheet v0.1</a>"
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
@@ -98,7 +99,7 @@ searchSectionsShow = []
 searchSectionsIndex = []
 darkMode = true
 bootStrapJs = true
-breadCrumb = false
+breadCrumb = true
 highLight = true
 kaTex = false
 multilingualMode = false

@@ -1,7 +1,7 @@
 ---
 title: "Possibilities"
-description: "Check out Davinici Sheets F&Q"
-lead: "Check out Davinici Sheets F&Q"
+description: "Check out Davinici Sheet F&Q"
+lead: "Check out Davinici Sheet F&Q"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -69,7 +69,7 @@ Copy Direct Link - https://samplesite.com
 
 See our blogs on this topic: [hugo new](https://gohugo.io/commands/hugo_new/).
 
-## Davinici Sheets F&Q
+## Davinici Sheet F&Q
 
 How to automate image generation in your Sheets and Docs.
 
