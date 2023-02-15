@@ -1,6 +1,9 @@
 - id: get-started
   translation: "Get Started"
 
+- id: activate-davinici
+  translation: "Activate Davinici Sheet"
+
 - id: on-this-page
   translation: "On this page"
 
