@@ -13,7 +13,7 @@ weight: 130
 toc: true
 ---
 
-{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." />}}
+{{< alert icon="💡" text="You can change the possibilities in the scripts section of `./package.json`." />}}
 
 {{< details "Check out <b>ALL</b> we do" >}}
 - AI Prompt Generation
@@ -35,7 +35,7 @@ How to automate image generation in your Sheets and Docs.
 Copy Direct Link - https://samplesite.com
 ```
 
-See our blogs on this topic: [hugo new](https://gohugo.io/commands/hugo_new/).
+See our blogs on this topic: [hugo new](https://gohugo.io/possibilities/hugo_new/).
 
 ## Docs based tree
 
@@ -51,7 +51,7 @@ How to automate image generation in your Sheets and Docs.
 Copy Direct Link - https://samplesite.com
 ```
 
-See our blogs on this topic: [hugo new](https://gohugo.io/commands/hugo_new/).
+See our blogs on this topic: [hugo new](https://gohugo.io/possibilities/hugo_new/).
 
 ## lint
 
@@ -67,7 +67,7 @@ How to automate image generation in your Sheets and Docs.
 Copy Direct Link - https://samplesite.com
 ```
 
-See our blogs on this topic: [hugo new](https://gohugo.io/commands/hugo_new/).
+See our blogs on this topic: [hugo new](https://gohugo.io/possibilities/hugo_new/).
 
 ## Davinici Sheet F&Q
 
@@ -79,4 +79,4 @@ How to automate image generation in your Sheets and Docs.
 3. [Easily update npm packages]({{< relref "FAQ" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
 {{< /details >}}
 
-See our blogs on this topic: [hugo new](https://gohugo.io/commands/hugo_new/).
+See our blogs on this topic: [hugo new](https://gohugo.io/possibilities/hugo_new/).

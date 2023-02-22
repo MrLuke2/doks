@@ -23,7 +23,7 @@ toc: true
 2. Once installed, open Google Sheets, navigate to Extensions > Davinici_Sheet App > launch.
 {{< /details >}}
 
-For more information please follow the link. [Start Here →]({{< relref "quick-start" >}})
+For more information please follow the link. [Start Here →]({{< relref "start-here" >}})
 
 ## Start a new Davinici Sheet project
 
@@ -65,4 +65,4 @@ Copy Direct Link - https://github.com/h-enk/doks.git my-doks-site
 - [Easily update npm packages]({{< relref "FAQ" >}}) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks).
 {{< /details >}}
 
-Interested in all the possibilities of Davinici Sheet. [Possibilities →]({{< relref "commands" >}})
+Interested in all the possibilities of Davinici Sheet. [Possibilities →]({{< relref "possibilities" >}})

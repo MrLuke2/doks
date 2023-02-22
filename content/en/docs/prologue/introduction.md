@@ -30,31 +30,27 @@ Step-by-step instructions on how to start a new Davinici Sheet project. [Tutoria
 2. Once installed, open Google Sheets, navigate to Extensions > Davinici_Sheet App > launch.
 {{< /details >}}
 
-For more information please follow the link. [Start Here →]({{< relref "quick-start" >}})
+For more information on all our Plans and Prices please follow the link. [Pricing →]({{< relref "start-here" >}})
 
 ## Go further
 
 Recipes, Reference Guides, Extensions, and Showcase.
 
-### Recipes
-
-Get instructions on how to accomplish common tasks with Davinici Sheet. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
-
-### Reference Guides
+### Our Reference Guides
 
 Learn how to customize Davinici Sheet to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
 
-### Extensions
+### Davinici Suite Extensions
 
 Get instructions on how to add even more to Davinici Sheet. [Extensions →](https://getdoks.org/docs/extensions/breadcrumb-navigation/)
 
-### Showcase
+### Davinici Showcase
 
 See what others have build with Davinici Sheet. [Showcase →](https://getdoks.org/showcase/electric-blocks/)
 
 ## Contributing
 
-Find out how to contribute to Davinici Sheet. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
+Check out the Contributors of Davinici Sheet. [Contributors →]({{< relref "Contributors" >}})
 
 ## Help
 

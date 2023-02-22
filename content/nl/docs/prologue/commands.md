@@ -1,7 +1,7 @@
 ---
-title: "Commands"
-description: "Doks comes with commands for common tasks."
-lead: "Doks comes with commands for common tasks."
+title: "possibilities"
+description: "Doks comes with possibilities for common tasks."
+lead: "Doks comes with possibilities for common tasks."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -13,7 +13,7 @@ weight: 130
 toc: true
 ---
 
-{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." />}}
+{{< alert icon="💡" text="You can change the possibilities in the scripts section of `./package.json`." />}}
 
 ## create
 
@@ -23,7 +23,7 @@ Create new content for your site:
 npm run create [path] [flags]
 ```
 
-See also the Hugo docs: [hugo new](https://gohugo.io/commands/hugo_new/).
+See also the Hugo docs: [hugo new](https://gohugo.io/possibilities/hugo_new/).
 
 ## lint
 

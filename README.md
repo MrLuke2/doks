@@ -129,9 +129,9 @@ npm install
 npm run start
 ```
 
-## Other commands
+## Other possibilities
 
-Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for common tasks.
+Doks comes with [possibilities](https://getdoks.org/docs/prologue/possibilities/) for common tasks.
 
 ## Documentation
 

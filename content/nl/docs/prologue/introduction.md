@@ -27,7 +27,7 @@ Step-by-step instructions on how to start a new Doks project. [Tutorial →](htt
 
 {{< alert icon="👉" text="The Start Here is intended for intermediate to advanced users." />}}
 
-One page summary of how to start a new Doks project. [Start Here →]({{< relref "quick-start" >}})
+One page summary of how to start a new Doks project. [Start Here →]({{< relref "start-here" >}})
 
 ## Go further
 
